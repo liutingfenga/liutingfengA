@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <h1>😄  嘿!很高兴见到你</h1>
 
-<p>欢迎来到我的页面! </br> 大家都叫【刘听风】 来自 <b>Wuhan, China</b>, 目前生活在  <b>ZhengZhou, China</b></p>
+<p>欢迎来到我的页面! </br> 大家都叫【刘听风】 来自 <b>ZhouKou, China</b>, 目前生活在  <b>ZhengZhou, China</b></p>
 
 <p>我的主站【<a href="https://www.86s.com/">www.86s.com</a>】</p>
 
