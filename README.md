@@ -52,12 +52,12 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
       <td><a href="https://github.com/liutingfenga/vue-php"><b>vue-php</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/hangjob/vue-admin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://github.com/liutingfenga/vue-php?style=flat-square&labelColor=343b41"/></td>
       <td><a href="https://github.com/liutingfenga/vue-php">连接</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/liutingfenga/SimplicityV1"><b>SimplicityV1</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/hangjob/vue-vite-admin-ts?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://github.com/liutingfenga/SimplicityV1?style=flat-square&labelColor=343b41"/></td>
       <td><a href="https://github.com/liutingfenga/SimplicityV1">连接</a></td>
     </tr>
   </tbody>
