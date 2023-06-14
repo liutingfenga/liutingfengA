@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p>欢迎来到我的页面! </br> 大家都叫【刘听风】 来自 <b>ZhouKou, China</b>, 目前生活在  <b>ZhengZhou, China</b></p>
 
-<p>我的主站【<a href="https://www.86s.com/">www.86s.com</a>】</p>
+<p>我的主站【<a href="https://86s.com/">86s.com</a>】</p>
 
 <p>我的掘金【<a href="https://juejin.cn/user/3878732753800013/">LTFA</a>】</p>
 
