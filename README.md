@@ -12,16 +12,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>😄  嘿!很高兴见到你</h1>
 
-<p>欢迎来到我的页面! </br> 我叫【刘听风】 目前生活工作在  <b>ZhengZhou, China</b></p>
+<h2>Hey 👋, I'm <a href="https://86s.cc/">LiuTingFeng</a></h2>
+<p>I am a front-end development engineer.</p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I am currently learning Vue3, React, and Uniapp.</li>
+<li>👨‍💻 Most of my projects are available on Github.</li>
+<li>📝 I will post some articles on <a target="_blank" href="https://juejin.cn/user/3878732753800013">掘金</a>.</li>
+<li>😄 I like movies, novels, cats.</li>
+<li>🌐 Welcome to my <a target="_blank" href="https://86s.cc">blog</a>.</li>
+  
+<li>🎇 To be continued......</li>
+</ul>
 
-<p>我的主站【<a href="https://86s.cc/">86s.cc</a>】</p>
 
-<p>我的掘金【<a href="https://juejin.cn/user/3878732753800013/">LTFA</a>】</p>
-
-
-<h3>常写的语言</h3>
+<h3>Commonly used language</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
@@ -36,32 +43,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 
 
-
-
-
-<h3>项目</h3>
-
-<table>
-  <thead align="center">
-      <tr border: none;>
-      <td><b>🎁 项目</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>💬 备注</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/liutingfenga/vue-php"><b>vue-php</b></a></td>
-      <td><img alt="Stars" src="https://github.com/liutingfenga/vue-php?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://github.com/liutingfenga/vue-php">连接</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/liutingfenga/SimplicityV1"><b>SimplicityV1</b></a></td>
-      <td><img alt="Stars" src="https://github.com/liutingfenga/SimplicityV1?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://github.com/liutingfenga/SimplicityV1">连接</a></td>
-    </tr>
-  </tbody>
-</table>
 
 
 
