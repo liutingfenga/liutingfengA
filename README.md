@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Read this in other languages: [English](README.md), [中文](README_zh.md).**
 
 <h2>Hey 👋, I'm <a href="https://86s.cc/">LiuTingFeng</a></h2>
 <p>I am a front-end development engineer.</p>
